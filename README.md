@@ -16,7 +16,7 @@ Passionate about web development, databases, and 💻🔐
 ## 📫 Contact Me
 - Email: eyal.yehuda@example.com
 - LinkedIn: [Eyal Yehuda](https://linkedin.com/in/eyal-yehuda-a93353336)
-- GitHub: [@eyal-yehuda](https://github.com/EyalYeh)
+- GitHub: [Eyal Yehuda](https://github.com/EyalYeh)
 
 > “Talk is cheap. Show me the code.” – Linus Torvalds
 
