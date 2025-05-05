@@ -36,8 +36,15 @@ Passionate about web development, databases, and 💻🔐
 - Smart Contract Software-Project
 
 ## 📫 Contact Me
-- LinkedIn: [Eyal Yehuda](https://linkedin.com/in/eyal-yehuda-a93353336)
-- GitHub: [EyalYeh](https://github.com/EyalYeh)
+
+<p align="left">
+  <a href="https://github.com/EyalYeh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-EyalYeh-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge"/>
+  </a>
+  <a href="https://linkedin.com/in/eyal-yehuda-a93353336" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Eyal%20Yehuda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+  </a>
+</p>
 
 > “Talk is cheap. Show me the code.” – Linus Torvalds
 
