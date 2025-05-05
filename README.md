@@ -14,7 +14,6 @@ Passionate about web development, databases, and 💻🔐
 - Smart Contract Software-Project
 
 ## 📫 Contact Me
-- Email: eyal.yehuda@example.com
 - LinkedIn: [Eyal Yehuda](https://linkedin.com/in/eyal-yehuda-a93353336)
 - GitHub: [Eyal Yehuda](https://github.com/EyalYeh)
 
