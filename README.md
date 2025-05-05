@@ -39,10 +39,10 @@ Passionate about web development, databases, and 💻🔐
 
 <p align="left">
   <a href="https://github.com/EyalYeh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-EyalYeh-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/eyal-yehuda-a93353336" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Eyal%20Yehuda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
 
