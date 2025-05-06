@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Eyal Yehuda
 
 I'm a computer science student at Freie Universität Berlin 🎓  
-Passionate about web development, databases, and 💻🔐
+Passionate about web development, databases, and blockchain development 💻🔐
 
 ## 🛠️ Languages and Tools
 
