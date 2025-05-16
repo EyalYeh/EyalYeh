@@ -32,7 +32,7 @@ Passionate about web development, databases, and blockchain development 💻🔐
   </p>
 
 ## 📚 Currently Learning
-- Advanced algorithms and Computer-oriented Mathematics
+- Mobile-communications and Computer-oriented Mathematics
 - Smart Contract Software-Project
 
 ## 📫 Contact Me
